@@ -1,11 +1,6 @@
 # COVID-19 Tracker App
 
-> Create blogs
-
-## Live Web Application
-
-***[http://blogapp-ad.herokuapp.com/](http://blogapp-ad.herokuapp.com/)***
-
+> Track COVID-19 Data
 
 ## Demo
 ![Demo](demo.png)
